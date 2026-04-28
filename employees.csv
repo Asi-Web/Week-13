@@ -1,0 +1,9 @@
+name,department,age,salary
+Alice,IT,25,70000
+Bob,HR,30,
+Charlie,IT,,65000
+Dana,Sales,28,72000
+Evan,IT,35,90000
+Fiona,HR,29,58000
+George,Sales,41,80000
+Hannah,IT,27,NaN
