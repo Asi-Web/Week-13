@@ -1,0 +1,11 @@
+customer_id,region,product,units_sold,unit_price
+1001,North,Widget,5,10.0
+1002,South,Gadget,3,15.0
+1003,North,Widget,,10.0
+1004,East,Widget,2,10.0
+1005,West,Gadget,3,
+1002,South,Gadget,3,15.0
+1006,East,Doohickey,4,12.5
+1007,West,Widget,1,10.0
+1008,North,Doohickey,2,12.5
+1009,South,Widget,3,10.0
